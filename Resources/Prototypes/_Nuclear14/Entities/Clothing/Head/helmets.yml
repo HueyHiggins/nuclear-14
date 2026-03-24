@@ -1115,6 +1115,10 @@
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/improvisedplatehelmet.rsi
   - type: Clothing
     sprite: _Nuclear14/Clothing/Head/FalloutHelmets/improvisedplatehelmet.rsi
+  - type: HideLayerClothing
+    slots:
+    - Hair
+    - Snout    
   - type: Armor
     modifiers:
       coefficients:
